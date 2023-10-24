@@ -2,13 +2,21 @@
 
 <ins>Analysis:</ins>
 Using the youtube_with_covid.csv file found it data, we were able to conduct t-tests for the differnt vaccination rates
+
 *Fully Vaccinated Rate
+
 *One Dose Rate
+
 *Up to Date Rate 
+
 against the main metric we use to test video engagement:
+
 *Views
+
 *Likes
+
 *Comments
+
 Once the tests were conducted, they were then combined into a data frame to show all results at once. The p-values for their tests are shown below:
 
 | Test | P-Value |
