@@ -1,1 +1,4 @@
 # group-9-p1
+
+Analysis: 
+We researched today’s top rated tech positions and compared it to YouTube’s video tile pertaining each tech position. The top tech positions we searched were Web Developer, Software Developer, Data Scientist, Data Analysis, and Business Analyst. In 2019 and 2020, Web Developer was the most supplied YouTube video than another career. Throughout the years, 2020 – 2022 there was an increase in tech YouTube videos. Each tech category had an increase. Also, the same trends found in 2019 – 2020 were found in 2021 – 2022. In 2022 to 2023, there was an increase in tech YouTube video, but the trend slightly shifted. From 2019 to 2022, data scientist was the third leading YouTube video but in 2023 data analysis surpassed data scientist. From 2019 – 2023, Web Developer is the most supplied YouTube video out of the tech field.  
