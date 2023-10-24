@@ -1,7 +1,7 @@
 # Covid and Tech YouTube Trends
 
 <ins>Analysis:</ins>
-Using the youtube_with_covid.csv file found it data, we were able to conduct t-tests for the differnt vaccination rates
+Using the youtube_with_covid.csv file found in the data folder, we were able to conduct t-tests for the different vaccination rates
 
 *Fully Vaccinated Rate
 
