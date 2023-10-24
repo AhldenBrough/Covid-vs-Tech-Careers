@@ -1,5 +1,5 @@
 # group-9-p1
-Analysis
+Analysis:
 The number of youtube Tech videos is continue raising from 2019 to 2023. We can also see from 2020 to 2022, there is a huge increase of tech video upload. 2020-2022 has the top 3 view counts from 2019-2023.
 View count from 2020-2021 has the highest increase and the the total number of videos has the highest increase from 2021-2022. The may result from the high view counts in 2021 and the video creators make more tech career videos because it is getting more popular. 
 There is a high percentage in 2021 (~67%) because the COVID vaccination rolled out in December,202-. Then we can continue to see the increase in 2022 which also reaches to the highest vaccination rate. In 2022, vaccines were becoming more accessible, so more people have completed the 2 doses. 
