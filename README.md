@@ -59,3 +59,9 @@ Of the 50 channels in our dataset, only a few channels popularity indicators had
 
 The COVID-19 pandemic increased the number of tech career focused videos being posted, with the most popular career being Web Developer. There was little to no correlation with the popularity of individual channels. What can be inferred from this is that the tech career video genre became a more popular topic to make videos about but individual channels success was not affected by this trend.
 
+## Citations ##
+Help with YouYube API - https://www.youtube.com/watch?v=D56_Cx36oGY&t=683s 00:00 - 13:15
+Cell 12, https://stackoverflow.com/questions/30653208/retrieve-video-ids-contained-in-a-playlist-youtube-api-v3
+Cell 49, https://stackoverflow.com/questions/71767087/concat-dataframes-using-rows-from-second-dataframe-which-dont-exist-in-first-da
+Cell 191, 192, https://stackoverflow.com/questions/68715304/dual-x-axis-in-python-same-data-different-scale
+Cell 195, https://stackoverflow.com/questions/44664247/python-dictionary-how-to-get-all-keys-with-specific-values
